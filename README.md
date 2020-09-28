@@ -23,6 +23,11 @@ On Windows, you can use Chocolatey:
 ```bash
 $ choco install chromedriver
 ```
+Install Percy SDK:
+
+```bash
+$ npm install
+```
 
 For other systems (or installation alternatives), see:
 https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
